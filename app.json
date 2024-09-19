@@ -1,13 +1,13 @@
 {
   "name": "Classic-v3-BUG",
-  "description": "whatsapp md bot build with nodejs",
+  "description": "WhatsApp bot made by Mark ",
   "repository": "https://github.com/Samue-l1/Classic-V4",
-  "logo": "https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg",
+  "logo": "https://github.com/Sachoni/Nzi-V13/blob/9e01fca2911a30bfb8b6dd549988a6099d139dc9/Img/Screenshot_20240919_190110_CapCut.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
   "env": {
       "autoviewstatus": {
         "description": "Put TRUE,if you want the bot to view status ",
-        "required": false
+        "required": true 
       },
       "HEROKU_API_KEY": {
         "description": "Heroku account api key, https://dashboard.heroku.com/account",
