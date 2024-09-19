@@ -48,7 +48,7 @@ participant: '0@s.whatsapp.net'
 },
 message: {
 listResponseMessage: {
-title: ` ◥◤◢◤ ★彡 𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 ?彡★◥◣◥◤ `
+title: ` ◥◤◢◤ ★彡Nzi-BOT 彡★◥◣◥◤ `
 }
 }
 }
@@ -323,7 +323,7 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `𝚻𝚰𝐆𝚵𝚪 𝐑𝚫𝐃𝚰𝚯𝚫𝐂𝚻𝚰𝛁𝚵 𝛁1`,
+        title : `Nz-Bot𝛁1`,
         body : `𝚻𝚮𝚵𝚵 𝐃𝚪𝚫𝐆𝚯𝚴`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -1214,7 +1214,7 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `*𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* 
+                            ewe = `*Nzi-BOT⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* 
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
   ☢️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1263,7 +1263,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 ARLODRAGON  ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺༔༐༑', 
+  body: '༐༑⿻⫹⸙⧉Nzi⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1281,9 +1281,9 @@ case 'Islammenu': {
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
-┣╼╼❴ ⧠ ᏴϴͲ ᏆΝҒϴ ⧠ ❵╼╼╼
+┣╼╼❴ ⧠ Nzi-BOT ⧠ ❵╼╼╼
 ┃
-┃    📚𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : *𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃*.
+┃    📚𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : *Nzi-BOT -𝐌𝐃*.
 ┃	👾𝐏𝐫𝐞𝐟𝐢𝐱 : *𝐌𝐮𝐥𝐭𝐢-𝐏𝐫𝐞𝐟𝐢𝐱*.
 ┃	📅𝐃𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 : ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}
 ┃	🕑𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}
@@ -1311,13 +1311,13 @@ case 'Islammenu': {
 ┃➟ 𝐚𝐥𝐪𝐮𝐫𝐚𝐧
 ┃➟ 𝐥𝐢𝐬𝐭𝐬𝐮𝐫𝐚𝐡
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥➥❰*𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ®2024*❱➥➥➥
+┃  ➥➥➥❰*Nzi⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙ARLODRAGON⸙⧉',
+  title: '𒑰⧉Nzi',
   body: '⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1338,7 +1338,7 @@ case 'textmaker': {
 ┃
 ┣╼╼❴ ⧠ ᏴϴͲ ᏆΝҒϴ ⧠ ❵╼╼╼
 ┃
-┃    📚𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : *𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃*.
+┃    📚𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : *Nzi-𝐌𝐃*.
 ┃	👾𝐏𝐫𝐞𝐟𝐢𝐱 : *𝐌𝐮𝐥𝐭𝐢-𝐏𝐫𝐞𝐟𝐢𝐱*.
 ┃	📅𝐃𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 : ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}
 ┃	🕑𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}
@@ -1393,7 +1393,7 @@ case 'textmaker': {
 ┃➟ 𝒉𝒐𝒓𝒓𝒐𝒓𝒃𝒍𝒐𝒐𝒅
 ┃➟ 𝒕𝒉𝒖𝒏𝒅𝒆𝒓
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ✢✢❰ *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ®2024* ❱✢✢
+┃ ✢✢❰ *Nzi⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓 ®2024* ❱✢✢
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
@@ -1401,7 +1401,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉⸙ARLODRAGON⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑', 
+  body: '༐༑⿻⫹⸙⧉Nzi⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1589,7 +1589,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰⧉ARLODRAGON⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑', 
+  body: '༐༑⿻⫹⸙⧉Nzi⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1602,7 +1602,7 @@ break
 //=================================================//
 case 'addmenu': {
 
-                            ewe = ` *𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* 
+                            ewe = ` *Nzi⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓* 
   ❤️‍🔥 𝐔𝐬𝐞𝐫 : ${pushname}}
   ☢️ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
@@ -1660,7 +1660,7 @@ case 'cucimata': {
 ┃
 ┣╼╼❴ ⧠ ᏴϴͲ ᏆΝҒϴ ⧠ ❵╼╼╼
 ┃
-┃    📚𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : *𝐁𝐚𝐢𝐥𝐞𝐲𝐬-𝐌𝐃*.
+┃    📚𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : *Nzi-𝐌𝐃*.
 ┃	👾𝐏𝐫𝐞𝐟𝐢𝐱 : *𝐌𝐮𝐥𝐭𝐢-𝐏𝐫𝐞𝐟𝐢𝐱*.
 ┃	📅𝐃𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 : ${moment.tz('Africa/Nairobi').format('DD/MM/YY')}
 ┃	🕑𝐑𝐮𝐧𝐭𝐢𝐦𝐞 : ${runtime(process.uptime())}
@@ -1816,7 +1816,7 @@ mentionedJid:[sender],
 "externalAdReply": {
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
-"title": `© 𝐓𝐈𝐆𝐄𝐑⌘𝐑𝐀𝐃𝐈𝐎𝐀𝐂𝐓𝐈𝐕𝐄⌘𝐁𝐔𝐆𝐁𝐎𝐓`, 
+"title": `© Nzi-BOT `, 
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": rimuwu,
@@ -1952,7 +1952,7 @@ case "savekontak": {
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*') 
 await m.reply('wait')
 const groupMetadata = m.isGroup? await zetsubo.groupMetadata(from).catch(e => {}) : ""
-const groupOwner = m.isGroup? groupMetadata.owner : ""
+const groupOwner = m.isGroup? groupMetadata.owner : "Mark"
 const participantts = m.isGroup? await groupMetadata.participants : ""
 const halsss = await participantts.filter(v => v.id.endsWith('.net')).map(v => v.id)
 for (let men of halsss) {
